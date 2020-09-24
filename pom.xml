@@ -22,6 +22,7 @@
     <modules>
         <module>parent-java</module>
         <module>jackson</module>
+        <module>core-java-modules</module>
     </modules>
 
     <build>
