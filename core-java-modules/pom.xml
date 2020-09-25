@@ -17,7 +17,6 @@
 
     <modules>
         <module>core-java-security-2</module>
-        <module>core-java-security-2</module>
     </modules>
     
 </project>
